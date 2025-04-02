@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @shaikmohammedabdulazeez
-- 👀 I’m interested in Data Science
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 I’m currently learning full-stack
+- 💞️ I’m looking to collaborate on full-stack projects
+- 📫 How to reach me shaikmohammedabdulazeez@gmail.com
 
 <!---
 shaikmohammedabdulazeez/shaikmohammedabdulazeez is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
